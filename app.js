@@ -1,4 +1,4 @@
-const AccessKey ="STONy91nOetlxj6BcCs5ZFIuVGOSMUbV8XJjFohsvbo";
+const AccessKey ="accesskey";
 
 const form=document.querySelector("form");
 const Srchinput =document.querySelector("#search-input");
